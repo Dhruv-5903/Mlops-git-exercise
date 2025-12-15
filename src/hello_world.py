@@ -1,6 +1,6 @@
 class HelloWorld:
     def main(self):
-        print("Hello, World!")
+        print("Hello, World! Edited directly on GitHub")
 
 
 if __name__ == "__main__":
